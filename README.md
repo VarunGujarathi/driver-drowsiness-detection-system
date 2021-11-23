@@ -1,5 +1,6 @@
 
 
 ![photo](https://user-images.githubusercontent.com/89632704/143035123-671b5a60-7fba-47b0-8b36-0e18d7bfa303.jpeg)
-# WELCOME TO DRIVER DROWSINESS DETECTION SYSTEM
-A system that monitors the driver’s face from when the car starts. This mainly helps us to completely monitor the driver’s eye blinking and observe it continuously.
+#                                                           WELCOME TO DRIVER DROWSINESS DETECTION SYSTEM
+Most of the accidents that have been reported in our country is due to lack of concentration of the driver or feeling drowsy by the driver. Fatigue and micro sleep at the driving controls are often the root cause of serious accidents. However, initial signs of fatigue can be detected before a critical situation arises and therefore, detection of driver’s fatigue and its indication is ongoing research topic. Most of the traditional methods to detect drowsiness are based on behavioural aspects while some are intrusive and may distract drivers, while some require expensive sensors. we have designed a Driver Drowsiness Detection System using Python and Dlib models. This method can reduce the number of road accidents also the proposed system does not require any physical contact with the driver, so it is easy to implement. The system can detect facial landmarks, computes Eye Aspect Ratio (EAR) to detect driver’s drowsiness based on adaptive thresholding. Machine learning algorithms have been employed to test the effectivenessof the proposed approach.
+
